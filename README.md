@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Post Installation Setup](https://www.youtube.com)
+- ### [YouTube: Tickets and Ticket Lifecycles](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
