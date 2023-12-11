@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Tickets and Ticket Lifecycles](https://www.youtube.com)
+- ### [YouTube: Creating Tickets and SImulating the Ticketing Lifecycles](https://youtu.be/_3jfGlZt32Y)
 
 <h2>Environments and Technologies Used</h2>
 
